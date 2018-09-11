@@ -1,6 +1,5 @@
 
 /* Tag selector to select the 'body' element */
-<style>
 body {
   color: #00b3e6;
   /* Your code here! */
@@ -21,6 +20,6 @@ div {
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
+  font-style: italic;
   /* Your code here! */
 }
-</style>
